@@ -1,22 +1,22 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/rh9Gqguv">
+  <img align="left" alt="Fathi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/profile.php?id=100001405084892">
+  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/youssef-fathi-a05722179/">
+  <img align="left" alt="Fathi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Fathi Youssef" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=WalidDev1.WalidDev1)
+![](https://visitor-badge.glitch.me/badge?page_id=FathiYoussef9.FathiYoussef9)
 
 <br />
 
-Hi, I'm Soussi Walid, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Fathi Youssef, a passionate self-taught Full Stack web developer and a freelance software engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -43,9 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 54 mins   █████████████░░░░░░░░░░░░   51.78 % 
-JSX          4 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
-SCSS         2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Java   8 hrs 54 mins   █████████████░░░░░░░░░░░░   51.78 % 
+PHP          4 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
+c++         2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
 Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
@@ -66,7 +66,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WalidDev1&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FathiYoussef9&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
